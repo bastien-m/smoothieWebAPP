@@ -1,8 +1,8 @@
-#Scaffold for Angular Project
+#Smoothie WebAPP
+
+This App used the Smoothie Backend in order to work. The aim of this project is to provide a simple app design to help people to find a smoothie they could do without needing to buy something more than what they have in their kitchen.
+
+Just type your availables fruits and this web app will perform a search and list all the recipes availables. Simple as that.
 
 
-This project is a scaffold made to help building a webapp using angularJS + Sass + Materialize
-It uses Grunt to launch all the required tasks in order to just code without doing anything.
-
-Tasks:
-- Default => connect (static server port 8000) + Watch (watch css/scss, js, html and launches the required operations)
+You are able to add recipes as well, judge other recipes (and maybe get some tips and proposals, not implemented yet)
