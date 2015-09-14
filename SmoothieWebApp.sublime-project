@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "/E/Dev/Websites/Smoothie/WebAPP"
+		}
+	],
+	"settings": {
+        "todoreview": {
+            "exclude_folders": [
+                "*.git*",
+                "*node_modules*",
+                "*bower_components*"
+            ]
+        }
+    }
+}
