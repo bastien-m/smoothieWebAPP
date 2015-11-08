@@ -1,0 +1,10 @@
+.parallax img {
+	display: block;
+}
+
+
+@media screen and (min-width: 1260px) {
+	.parallax img {
+		margin-top: 20px;
+	}
+}
